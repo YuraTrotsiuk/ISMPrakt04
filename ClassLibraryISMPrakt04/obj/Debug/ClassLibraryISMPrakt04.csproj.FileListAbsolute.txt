@@ -1,0 +1,6 @@
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\bin\Debug\ClassLibraryISMPrakt04.dll
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\bin\Debug\ClassLibraryISMPrakt04.pdb
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\obj\Debug\ClassLibraryISMPrakt04.csproj.CoreCompileInputs.cache
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\obj\Debug\ClassLibraryISMPrakt04.dll
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\obj\Debug\ClassLibraryISMPrakt04.pdb
+D:\Проекти с#\ISMPrakt04\ClassLibraryISMPrakt04\obj\Debug\ClassLibraryISMPrakt04.csproj.AssemblyReference.cache
