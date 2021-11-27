@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoWhileConsole1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoWhileConsole1.Designer.cs">
+      <DependentUpon>DoWhileConsole1.cs</DependentUpon>
+    </Compile>
     <Compile Include="ForConsole2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +108,9 @@
     <Compile Include="WhileConsole3.Designer.cs">
       <DependentUpon>WhileConsole3.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DoWhileConsole1.resx">
+      <DependentUpon>DoWhileConsole1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ForConsole2.resx">
       <DependentUpon>ForConsole2.cs</DependentUpon>
     </EmbeddedResource>

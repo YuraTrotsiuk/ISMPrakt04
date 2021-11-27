@@ -19,3 +19,4 @@ D:\Проекти с#\ISMPrakt04\ConsoleAppMain\obj\Debug\ConsoleAppMain.ForCons
 D:\Проекти с#\ISMPrakt04\ConsoleAppMain\obj\Debug\ConsoleAppMain.WhileConsole1.resources
 D:\Проекти с#\ISMPrakt04\ConsoleAppMain\obj\Debug\ConsoleAppMain.WhileConsole2.resources
 D:\Проекти с#\ISMPrakt04\ConsoleAppMain\obj\Debug\ConsoleAppMain.WhileConsole3.resources
+D:\Проекти с#\ISMPrakt04\ConsoleAppMain\obj\Debug\ConsoleAppMain.DoWhileConsole1.resources

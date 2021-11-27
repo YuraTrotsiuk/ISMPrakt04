@@ -38,6 +38,7 @@ namespace ConsoleAppMain
             this.WhileConsole2 = new System.Windows.Forms.Button();
             this.WhileConsole3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.DoWhileConsole1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // ForConsole1
@@ -130,11 +131,22 @@ namespace ConsoleAppMain
             this.label1.TabIndex = 9;
             this.label1.Text = "Роботу виконав: Троцюк Юрій Михайлович";
             // 
+            // DoWhileConsole1
+            // 
+            this.DoWhileConsole1.Location = new System.Drawing.Point(222, 216);
+            this.DoWhileConsole1.Name = "DoWhileConsole1";
+            this.DoWhileConsole1.Size = new System.Drawing.Size(144, 45);
+            this.DoWhileConsole1.TabIndex = 10;
+            this.DoWhileConsole1.Text = "DoWhileConsole1";
+            this.DoWhileConsole1.UseVisualStyleBackColor = true;
+            this.DoWhileConsole1.Click += new System.EventHandler(this.DoWhileConsole1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(396, 450);
+            this.ClientSize = new System.Drawing.Size(437, 450);
+            this.Controls.Add(this.DoWhileConsole1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.WhileConsole3);
             this.Controls.Add(this.WhileConsole2);
@@ -165,6 +177,7 @@ namespace ConsoleAppMain
         private System.Windows.Forms.Button WhileConsole2;
         private System.Windows.Forms.Button WhileConsole3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button DoWhileConsole1;
     }
 }
 

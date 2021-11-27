@@ -72,5 +72,11 @@ namespace ConsoleAppMain
         {
 
         }
+
+        private void DoWhileConsole1_Click(object sender, EventArgs e)
+        {
+            DoWhileConsole1 form = new DoWhileConsole1();
+            form.ShowDialog();
+        }
     }
 }
